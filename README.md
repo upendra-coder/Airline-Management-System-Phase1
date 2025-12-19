@@ -19,7 +19,7 @@ This project serves as the foundational architecture for an airline booking syst
 ## 🛠️ Tech Stack
 * **Frontend:** React.js, React Router, CSS Modules
 * **Backend:** Node.js, Express.js
-* **Database:** MongoDB (Local/Atlas) *[Or MySQL if you used that in Phase 1]*
+* **Database:** MongoDB 
 * **Auth:** BCrypt (hashing), JWT
 
 ## ⚙️ Installation & Setup
